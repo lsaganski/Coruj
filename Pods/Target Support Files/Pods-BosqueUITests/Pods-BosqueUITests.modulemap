@@ -1,0 +1,6 @@
+framework module Pods_BosqueUITests {
+  umbrella header "Pods-BosqueUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

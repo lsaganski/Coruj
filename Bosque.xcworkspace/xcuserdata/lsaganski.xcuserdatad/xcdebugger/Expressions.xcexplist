@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CalendarioViewController.(loadData() -&gt; ()).(closure #1):CalendarioViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "WebViewController.viewDidLoad() -&gt; ():WebViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mytitle">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MensagensViewController.(loadData() -&gt; ()).(closure #1):MensagensViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CalendarioViewController.tableView(UITableView, heightForRowAt : IndexPath) -&gt; CGFloat:CalendarioViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MensagensViewController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:MensagensViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SmsViewController.sendSMS() -&gt; ():SmsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "messageVC.body">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CalendarioViewController.loadData() -&gt; ():CalendarioViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,6 @@
+framework module Pods_BosqueTests {
+  umbrella header "Pods-BosqueTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

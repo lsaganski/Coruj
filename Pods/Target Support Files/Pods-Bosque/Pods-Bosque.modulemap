@@ -1,0 +1,6 @@
+framework module Pods_Bosque {
+  umbrella header "Pods-Bosque-umbrella.h"
+
+  export *
+  module * { export * }
+}
